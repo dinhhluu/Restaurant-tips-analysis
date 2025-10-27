@@ -15,3 +15,4 @@ You can download the CSV file directly from the above GitHub link.
 ## Main Goals
 To understand which factors influence tipping behavior and visualize relationships among variables.
 
+## Result
